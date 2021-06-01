@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="font-color:#ffffff" align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/igor-souza-941730200/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@5.0.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/igor-souza-941730200/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igor-souza-941730200/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@5.0.0/icons/linkedin.svg" alt="https://www.linkedin.com/in/igor-souza-941730200/" height="30" width="40" /></a>
 <a href="https://discord.gg/wigo#3913" target="blank"><img align="center" src="https://unpkg.com/simple-icons@5.0.0/icons/discord.svg" alt="wigo#3913" height="30" width="40" /></a>
 </p>
 
