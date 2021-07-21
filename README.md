@@ -20,14 +20,10 @@
 <p align="left">
   
   
-  
-  <a href="https://discordapp.com/users/162312834779316224" alt="Discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/igor-souza-941730200/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
   <a href="mailto:souza.igor@protonmail.com" alt="ProtonMail">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white"/></a>
 
-  <a href="https://www.linkedin.com/in/igor-souza-941730200/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  
 </p>
