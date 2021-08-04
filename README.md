@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Igor e tenho <strong>22 anos</strong>.<br>
-  No momento estudo .NET e suas tecnologias por conta própria.
+  <strong>Igor() => 22 anos;</strong><br>
+  Sou autodidata, meu hobby é aprender e sou movido por desafios(e café).<br>No momento estudo .NET e demais tecnologias por conta própria.
 </p>
 
 <p align="left">
