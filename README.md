@@ -1,20 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Igor() => 22 anos;</strong><br>
-  Sou autodidata, meu hobby é aprender e sou movido por desafios(e café).<br>No momento estudo .NET e demais tecnologias por conta própria.
+  <strong>Olá amigo(a).</strong><br>
+  Procurando um projeto especifico ou só dando uma olhada?<br>
+  Tenho estudado bastante sobre C# e .NET em geral ultimamente.<br>
+  Fique a vontade pra dar qualquer feedback ou sugestão.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#</strong>
+  🦄 Linguagem Principal: <strong>C#</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code</strong>
+  💼 IDE: <strong>Visual Studio / Code</strong>
 </p>
 
 <p align="left">
-  💌 Use os links abaixo para me contatar: ⤵️
+  💌 Quer entar em contato? Clique nos links aqui em baixo: ⤵️
 </p>
 
 <p align="left">
