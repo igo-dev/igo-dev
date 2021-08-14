@@ -3,7 +3,7 @@
 <p align="left"> 
   <strong>Olá amigo(a).</strong><br>
   Procurando um projeto especifico ou só dando uma olhada?<br>
-  Tenho estudado bastante sobre C# e .NET em geral ultimamente.<br>
+  Tenho estudado bastante sobre C# e .NET ultimamente.<br>
   Fique a vontade pra dar qualquer feedback ou sugestão.<br>
 </p>
 
