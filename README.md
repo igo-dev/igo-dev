@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Olá.</strong> 👋<br>
+  <strong>Olá.</strong> 👋<br><br>
   Domino .NET com C# e sigo estudando Angular e Typescript.<br>
-  Fique a vontade pra dar qualquer feedback ou sugestão.<br>
+  Fique a vontade pra espiar meus repositórios e qualquer<br>
+  feedback ou sugestão é sempre bem vindo.<br>
 </p>
 
 <p align="left">
