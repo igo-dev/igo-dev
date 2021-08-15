@@ -4,7 +4,7 @@
   <strong>Olá.</strong> 👋<br><br>
   Domino .NET com C# e sigo estudando Angular e Typescript.<br>
   Fique a vontade pra espiar meus repositórios e qualquer<br>
-  feedback ou sugestão é sempre bem vindo.<br>
+  feedback ou sugestão são sempre bem vindos.<br>
 </p>
 
 <p align="left">
