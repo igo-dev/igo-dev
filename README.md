@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Olá amigo(a).</strong><br>
-  Procurando um projeto especifico ou só dando uma olhada?<br>
-  Tenho estudado bastante sobre C# e .NET ultimamente.<br>
+  <strong>Olá.</strong> 👋<br>
+  Domino .NET com C# e sigo estudando Angular e Typescript.<br>
   Fique a vontade pra dar qualquer feedback ou sugestão.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagem Principal: <strong>C#</strong>
+  🦄 Linguagem Preferida: <strong>C#</strong>
 </p>
 
 <p align="left">
